@@ -1,0 +1,6 @@
+===== STRUK =====
+ayam goreng - Rp10000.0
+jus jeruk - Rp5000.0
+pelanggan pertama - Rp0.0
+----------------
+Total = Rp13500.0

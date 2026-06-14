@@ -1,0 +1,7 @@
+Makanan,nasi goreng,10000.0
+Minuman,es teh manis,5000.0
+Diskon,pelanggan pertama,10.0
+Makanan,ayam goreng,10000.0
+Makanan,nasi goreng,15000.0
+Minuman,jus jeruk,5000.0
+Diskon,pelanggan pertama,10.0
